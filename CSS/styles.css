@@ -1,0 +1,152 @@
+/***********************************TAG SELECTOR***********************************/
+body
+  {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.25rem
+  }
+h1
+  {
+  color: #52734D;
+  font-size: 5rem;
+  font-style: italic;
+  margin: 20px auto 0 auto;
+  font-family: 'Satisfy', cursive;
+  }
+h2
+  {
+  color: #52734D;
+  font-size: 2rem;
+  font-family: 'Pacifico', cursive;
+  font-weight: normal;
+  line-height: 2rem;
+  padding-bottom: 10px;
+  }
+h3
+  {
+  color: #91C788;
+  }
+hr
+  {
+  border: dotted gray 10px;
+  border-bottom: none;
+  /* border-style: dotted none none;
+  border-width: 10px;
+  color: gray; */
+  width: 10%;
+  margin: 75px auto;
+  }
+p
+  {
+  line-height: 2;
+  }
+a
+  {
+  color: #91C788;
+  margin: 10px 20px;
+  text-decoration: none;
+  }
+a:hover
+  {
+  color: white;
+  }
+/**********************************CLASS SELECTOR**********************************/
+.top-container
+  {
+  background-color: #91C788;/*#52734D#91C788#DDFFBC#FEFFDE*/
+  position: relative;
+  padding-top: 100px;
+  }
+.middle-container
+  {
+  background-color: #DDFFBC;
+  padding-bottom: 75px;
+  }
+.bottom-container
+  {
+  background-color: #52734D;
+  padding: 30px 0 20px;
+  }
+.top-cloud
+  {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  }
+.bottom-cloud
+  {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  }
+.skill-row
+  {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  }
+.img
+  {
+  width: 30%;
+  }
+.code
+  {
+  margin-right: 30px;
+  float: left;
+  }
+.sleep
+  {
+  margin-left: 30px;
+  float: right;
+  }
+.appu
+  {
+  margin-top: 50px;
+  width: 200px;
+  }
+.mountain
+  {
+  margin-bottom: 0;
+  position: relative;
+  top: 5px;
+  }
+.btn
+  {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Varela Round', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 50px;
+  }
+.btn:hover
+  {
+  background: #30e3cb;
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+  }
+.copyright
+  {
+  color: white;
+  font-size: .75rem;
+  padding: 20px 0 0;
+  margin-bottom: 0;
+  }
+.footer-link
+  {
+  font-weight: bold;
+  }
+.intro
+  {
+  width: 30%;
+  margin: auto;
+  }
+.feel-free
+  {
+  margin-bottom: 50px;
+  }
